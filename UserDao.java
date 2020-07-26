@@ -11,5 +11,7 @@ public interface UserDao {
 	void updateUser(User user);
 
 	User login(User user);
+	
+	//啊啊啊啊所所多所大所大所大所多多
 
 }
