@@ -18,10 +18,9 @@ import cn.itcast.vo.PageBean;
  *
  */
 public class BookDaoImple implements BookDao {
-
-	/**
+	/**sssssssssssssssssssssssssss
 	 * 查询所有分类的图书
-	 */
+	 */ssssss
 	public List<Book> findAll() {
 		QueryRunner runner = new QueryRunner(MyJdbcUtil.getDataSource());
 		try {
